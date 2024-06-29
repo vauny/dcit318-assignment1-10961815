@@ -1,0 +1,15 @@
+C:\Users\valhm\OneDrive\Desktop\backup\workspace\personal\318assignment1\TicketPriceCalculator\bin\Debug\net8.0\TicketPriceCalculator.exe
+C:\Users\valhm\OneDrive\Desktop\backup\workspace\personal\318assignment1\TicketPriceCalculator\bin\Debug\net8.0\TicketPriceCalculator.deps.json
+C:\Users\valhm\OneDrive\Desktop\backup\workspace\personal\318assignment1\TicketPriceCalculator\bin\Debug\net8.0\TicketPriceCalculator.runtimeconfig.json
+C:\Users\valhm\OneDrive\Desktop\backup\workspace\personal\318assignment1\TicketPriceCalculator\bin\Debug\net8.0\TicketPriceCalculator.dll
+C:\Users\valhm\OneDrive\Desktop\backup\workspace\personal\318assignment1\TicketPriceCalculator\bin\Debug\net8.0\TicketPriceCalculator.pdb
+C:\Users\valhm\OneDrive\Desktop\backup\workspace\personal\318assignment1\TicketPriceCalculator\obj\Debug\net8.0\TicketPriceCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valhm\OneDrive\Desktop\backup\workspace\personal\318assignment1\TicketPriceCalculator\obj\Debug\net8.0\TicketPriceCalculator.AssemblyInfoInputs.cache
+C:\Users\valhm\OneDrive\Desktop\backup\workspace\personal\318assignment1\TicketPriceCalculator\obj\Debug\net8.0\TicketPriceCalculator.AssemblyInfo.cs
+C:\Users\valhm\OneDrive\Desktop\backup\workspace\personal\318assignment1\TicketPriceCalculator\obj\Debug\net8.0\TicketPriceCalculator.csproj.CoreCompileInputs.cache
+C:\Users\valhm\OneDrive\Desktop\backup\workspace\personal\318assignment1\TicketPriceCalculator\obj\Debug\net8.0\TicketPriceCalculator.sourcelink.json
+C:\Users\valhm\OneDrive\Desktop\backup\workspace\personal\318assignment1\TicketPriceCalculator\obj\Debug\net8.0\TicketPriceCalculator.dll
+C:\Users\valhm\OneDrive\Desktop\backup\workspace\personal\318assignment1\TicketPriceCalculator\obj\Debug\net8.0\refint\TicketPriceCalculator.dll
+C:\Users\valhm\OneDrive\Desktop\backup\workspace\personal\318assignment1\TicketPriceCalculator\obj\Debug\net8.0\TicketPriceCalculator.pdb
+C:\Users\valhm\OneDrive\Desktop\backup\workspace\personal\318assignment1\TicketPriceCalculator\obj\Debug\net8.0\TicketPriceCalculator.genruntimeconfig.cache
+C:\Users\valhm\OneDrive\Desktop\backup\workspace\personal\318assignment1\TicketPriceCalculator\obj\Debug\net8.0\ref\TicketPriceCalculator.dll
