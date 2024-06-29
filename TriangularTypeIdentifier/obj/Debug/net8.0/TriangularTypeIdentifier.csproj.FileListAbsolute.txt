@@ -1,0 +1,15 @@
+C:\Users\valhm\OneDrive\Desktop\backup\workspace\personal\318assignment1\TriangularTypeIdentifier\bin\Debug\net8.0\TriangularTypeIdentifier.exe
+C:\Users\valhm\OneDrive\Desktop\backup\workspace\personal\318assignment1\TriangularTypeIdentifier\bin\Debug\net8.0\TriangularTypeIdentifier.deps.json
+C:\Users\valhm\OneDrive\Desktop\backup\workspace\personal\318assignment1\TriangularTypeIdentifier\bin\Debug\net8.0\TriangularTypeIdentifier.runtimeconfig.json
+C:\Users\valhm\OneDrive\Desktop\backup\workspace\personal\318assignment1\TriangularTypeIdentifier\bin\Debug\net8.0\TriangularTypeIdentifier.dll
+C:\Users\valhm\OneDrive\Desktop\backup\workspace\personal\318assignment1\TriangularTypeIdentifier\bin\Debug\net8.0\TriangularTypeIdentifier.pdb
+C:\Users\valhm\OneDrive\Desktop\backup\workspace\personal\318assignment1\TriangularTypeIdentifier\obj\Debug\net8.0\TriangularTypeIdentifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valhm\OneDrive\Desktop\backup\workspace\personal\318assignment1\TriangularTypeIdentifier\obj\Debug\net8.0\TriangularTypeIdentifier.AssemblyInfoInputs.cache
+C:\Users\valhm\OneDrive\Desktop\backup\workspace\personal\318assignment1\TriangularTypeIdentifier\obj\Debug\net8.0\TriangularTypeIdentifier.AssemblyInfo.cs
+C:\Users\valhm\OneDrive\Desktop\backup\workspace\personal\318assignment1\TriangularTypeIdentifier\obj\Debug\net8.0\TriangularTypeIdentifier.csproj.CoreCompileInputs.cache
+C:\Users\valhm\OneDrive\Desktop\backup\workspace\personal\318assignment1\TriangularTypeIdentifier\obj\Debug\net8.0\TriangularTypeIdentifier.sourcelink.json
+C:\Users\valhm\OneDrive\Desktop\backup\workspace\personal\318assignment1\TriangularTypeIdentifier\obj\Debug\net8.0\TriangularTypeIdentifier.dll
+C:\Users\valhm\OneDrive\Desktop\backup\workspace\personal\318assignment1\TriangularTypeIdentifier\obj\Debug\net8.0\refint\TriangularTypeIdentifier.dll
+C:\Users\valhm\OneDrive\Desktop\backup\workspace\personal\318assignment1\TriangularTypeIdentifier\obj\Debug\net8.0\TriangularTypeIdentifier.pdb
+C:\Users\valhm\OneDrive\Desktop\backup\workspace\personal\318assignment1\TriangularTypeIdentifier\obj\Debug\net8.0\TriangularTypeIdentifier.genruntimeconfig.cache
+C:\Users\valhm\OneDrive\Desktop\backup\workspace\personal\318assignment1\TriangularTypeIdentifier\obj\Debug\net8.0\ref\TriangularTypeIdentifier.dll
